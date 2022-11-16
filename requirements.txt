@@ -1,0 +1,58 @@
+argcomplete==1.10.3
+backcall==0.2.0
+backports.zoneinfo==0.2.1
+beautifulsoup4==4.8.2
+certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
+chardet==3.0.4
+colorama==0.4.6
+compressed-rtf==1.0.6
+debugpy==1.6.3
+decorator==5.1.1
+docx2txt==0.8
+ebcdic==1.1.1
+entrypoints==0.4
+extract-msg==0.28.7
+IMAPClient==2.1.0
+ipykernel==6.16.2
+ipython==7.34.0
+jedi==0.18.1
+jupyter_client==7.4.6
+jupyter_core==4.11.2
+lxml==4.9.1
+matplotlib-inline==0.1.6
+nest-asyncio==1.5.6
+olefile==0.46
+packaging==21.3
+parso==0.8.3
+pdfminer.six==20191110
+pickleshare==0.7.5
+Pillow==9.3.0
+prompt-toolkit==3.0.32
+psutil==5.9.4
+pycryptodome==3.15.0
+Pygments==2.13.0
+pyparsing==3.0.9
+python-dateutil==2.8.2
+python-pptx==0.6.21
+pytz-deprecation-shim==0.1.0.post0
+pywin32==305
+pyzmq==24.0.1
+six==1.12.0
+sortedcontainers==2.4.0
+soupsieve==2.3.2.post1
+SpeechRecognition==3.8.1
+textract==1.6.5
+tornado==6.2
+traitlets==5.5.0
+tzdata==2022.6
+tzlocal==4.2
+wcwidth==0.2.5
+wincertstore==0.2
+xlrd==1.2.0
+XlsxWriter==3.0.3
+
+# python-docx
+# werkzeug
+# textract
+# gensim
+# flask

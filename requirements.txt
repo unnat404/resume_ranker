@@ -2,7 +2,7 @@ argcomplete==1.10.3
 backcall==0.2.0
 backports.zoneinfo==0.2.1
 beautifulsoup4==4.8.2
-certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
+# certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
 chardet==3.0.4
 colorama==0.4.6
 compressed-rtf==1.0.6
@@ -55,4 +55,3 @@ XlsxWriter==3.0.3
 # werkzeug
 # textract
 # gensim
-# flask

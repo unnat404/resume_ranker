@@ -1,0 +1,27 @@
+Data Scientist II
+Job ID: 1988995 | Amazon.com Services LLC
+DESCRIPTION
+Are you inspired by invention? Is problem solving through teamwork in your DNA? Do you like the idea of seeing how your work impacts the bigger picture? We are a smart team of doers that work passionately to apply cutting edge advances in science and software to solve real-world challenges that will transform our customers’ experiences in ways we can’t even imagine yet. We invent new improvements every day.
+
+Key job responsibilities
+This role will be responsible for:
+
+Thinking Big and generating ideas with the Data Science team and stakeholders.
+Working with customers and cross-functional stakeholder teams to identify, disambiguate, and define problems
+Scoping long-term solutions as a series of smaller, more manageable iterations.
+Creating data science architectures, and building scalable solutions.
+Running simulations, measuring performance, building ML models and designing optimization algorithms
+Supporting existing models, while thinking about next generation solutions.
+BASIC QUALIFICATIONS
+2+ years of experience using scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R, SAS, Matlab, etc.)
+Prior experience with cloud technologies (preferably AWS)
+Comfortable dealing with ambiguity and making headway in the face of uncertainty
+Proven success as both an independent performer and a contributing member of a high-performing team; showing the ability to dive deep and develop innovative ideas for process challenges
+Exposure to best practices in data analytics and reporting; data integrity, data analysis, data mining, design of experiments, and documentation
+Experience in working directly with customers (internal or external), disambiguating problems, scoping requirements, and planning/executing on Data Science projects.
+PREFERRED QUALIFICATIONS
+MS in Data Science, Statistics, Operations Research, or in highly quantitative field (e.g. Computer Science, Operations Research, Systems Engineering, Physics)
+Experience with Apache Spark/HDFS and Deep Learning frameworks, such as Tensorflow, Keras, or MXNet.
+Experience with Agile frameworks, e.g, Scrum.
+Comfort using a UNIX-like terminal and shell scripts.
+Prior industry experience.

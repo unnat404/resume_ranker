@@ -1,0 +1,39 @@
+Support Engineer Intern
+Job ID: 1649152 | ADCI - Tamil Nadu
+DESCRIPTION
+Job Description
+Amazon has earned a reputation for excellence in the world by leading innovative technologies. Our humongous scale helps interns experience the thrill of working in a system of humongous scale. We are looking for you if you are a highly determined/motivated engineer who loves challenges and commits to improvement every day. Our Support Engineers get an exposure to disruptive technologies applied in our software solutions. They collaborate with software development teams to raise the engineering and operational excellence to define the future.
+
+As a Support Engineer Intern you will:
+· Play vital role in helping us leverage supporting and developing technologies on any platform to increase global collaboration, increase efficiency, and meet our controller ship requirements
+· Directly work with development teams to improve the applications built by conducting technical mitigations and deep dives on reported issues to find the cause and corrective actions
+· Work with our other technical teams to ensure the design is effective and complements of our in house custom developed applications across platform stacks (including SQL, Java/.NET/C#/Perl/Python) or SaaS
+· Work on proactive detection mechanism to report dip in software performance by building efficient metrics/monitors/alarms using our in house tools
+· Build tools and automations to optimize the system, simplify processes, etc.
+
+
+Job Locations: Chennai-TN, Hyderabad-TS, Bangalore-KA, Pune-MH, Delhi
+
+BASIC QUALIFICATIONS
+· 2+ years of development or technical support experience
+· Experience troubleshooting and debugging technical systems
+· Experience in Unix
+· Experience scripting in modern program languages
+Basic Qualifications:
+
+· Candidate must be in Bachelor or Master Course in Computer Science or Engineering or related field
+· Good knowledge of computer science fundamentals such as Algorithms, Data Structures, Object Oriented Design, Databases, etc.
+· Good problem solving and troubleshooting skills
+· Scripting or Coding knowledge (Ex: Shell, Python, Ruby, Java, etc)
+
+
+PREFERRED QUALIFICATIONS
+Preferred Qualifications:
+
+· Knowledge in applications development would be an added advantage
+· Knowledge about AWS integration and usage
+· Have the ability to learn technical concepts quickly with a strong sense of urgency
+· Have enthusiasm for working in a fast paced, rapidly changing environment
+· Be a creative problem solver, who is passionate about innovation and customer experience.
+· Have strong written and oral communication skills
+· Capable to deal with ambiguity; work with minimum supervision
